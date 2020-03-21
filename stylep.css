@@ -1,0 +1,27 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+
+.container {
+    background-color: rgb(145, 237, 69);
+    font-weight: 900;
+    font-family: 'Times New Roman';
+}
+
+#nice {
+    padding: 15px, 15px;
+}
+
+#prod {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+    color: rgb(145, 237, 69);
+    text-align: center;
+}
+
+#started {
+    font-family: monospace;
+    font-weight: 400;
+    text-align: center;
+}

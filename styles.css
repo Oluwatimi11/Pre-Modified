@@ -1,0 +1,9 @@
+#started {
+    font-family: monospace;
+    font-weight: 400;
+    text-align: center;
+}
+
+.list-unstyled footer-link{
+    text-decoration: underline;
+}
